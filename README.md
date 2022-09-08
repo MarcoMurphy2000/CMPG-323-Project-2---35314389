@@ -5,6 +5,7 @@
 
 
 ## Details for Azure
+link: https://portal.azure.com/#home
 Server name: iot-business.database.windows.net
 Database on server: ConnectedOffice
 User name: ILLUMI
