@@ -4,6 +4,13 @@
 ![image](https://user-images.githubusercontent.com/53267265/188306508-98cfa10a-9ccf-4735-8427-4cacd4819d69.png)
 
 
+## Details for Azure
+Server name: iot-business.database.windows.net
+Database on server: ConnectedOffice
+User name: ILLUMI
+Password: 57BarnardAzure
+
+
 
 ## References:
 1.	https://stackoverflow.com/questions/7927230/remove-directory-from-remote-repository-after-adding-them-to-gitignore
