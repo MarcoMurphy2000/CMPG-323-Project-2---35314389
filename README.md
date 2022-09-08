@@ -5,11 +5,11 @@
 
 
 ## Details for Azure
-link: https://portal.azure.com/#home
-Server name: iot-business.database.windows.net
-Database on server: ConnectedOffice
-User name: ILLUMI
-Password: 57BarnardAzure
+link: https://portal.azure.com/#home <br />
+Server name: iot-business.database.windows.net <br />
+Database on server: ConnectedOffice <br />
+User name: ILLUMI <br />
+Password: 57BarnardAzure <br /><br />
 
 
 
